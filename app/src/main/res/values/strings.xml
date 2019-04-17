@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Accelerometer</string>
+    <string name="textView1">X:</string>
+    <string name="textView2">Y:</string>
+    <string name="textView3">Z:</string>
+    <string name="textView4">Acceleration</string>
+</resources>
